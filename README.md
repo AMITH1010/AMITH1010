@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**AMITH1010/AMITH1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Amith Nair, a Computer Science student, software builder, and curious tech explorer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+* 📱 Building native Android apps
+* 🌐 Developing full-stack web platforms
+* 🤖 Exploring modern AI tools
+* 🔬 Diving into core engineering,understand how things work under the hood
+
+## What I'm Currently Working On
+
+* 🏫 CampusAssist: A unified campus management platform
+  
+## Skills
+
+* Web & Mobile Development (HTML/CSS, JavaScript, Python, Kotlin)
+* Problem Solving
+* Leadership
+* AI Tools
+
+## How to Reach Me
+
+* LinkedIn:[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
