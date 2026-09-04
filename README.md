@@ -2,7 +2,6 @@
 
 I am Amith Nair, a Computer Science student, software builder, and curious tech explorer.
 
-
 ## What I Do
 
 * 📱 Building native Android apps
