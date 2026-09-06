@@ -22,6 +22,5 @@ I am Amith Nair, a Computer Science student, software builder, and curious tech 
 
 ## How to Reach Me
 
-* LinkedIn:www.linkedin.com/in/
-AmithNair1010
+* LinkedIn:www.linkedin.com/in/AmithNair1010
   
